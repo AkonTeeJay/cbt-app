@@ -1,0 +1,15 @@
+#resultsList{
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 4rem;
+}
+
+.result{
+    font-size: 2.8rem;
+    transition: transform .7s ease;
+    margin-bottom: 0.5rem;
+}
+
+.result:hover{
+    transform: scale(1.025);
+}

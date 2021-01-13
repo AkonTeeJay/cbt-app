@@ -1,0 +1,113 @@
+{
+    "questions": [{
+        "id": 1,
+        "question": "Who is the Founder of Tesla? ",
+        "choices": {
+            "A": "Dangote",
+            "B": "Elon Musk",
+            "C": "Jeff Bezos",
+            "D": "William Henry Gates III"
+        },
+        "answer": "Elon Musk" 
+    },
+    {
+        "id": 2,
+        "question": "What is the capital of Abia State? ",
+        "choices": {
+            "A": "Adamawa",
+            "B": "Benin",
+            "C": "Umuahia",
+            "D": "I don't Know"
+        },
+        "answer": "Umuahia" 
+    },
+    {
+        "id": 3,
+        "question": "2 * 2 ",
+        "choices": {
+            "A": "4",
+            "B": "32",
+            "C": "25",
+            "D": "3W"
+        },
+        "answer": "A" 
+    },
+    {
+        "id": 4,
+        "question": "If a bad man dies, Where does he go to?",
+        "choices": {
+            "A": "Heaven",
+            "B": "Hell",
+            "C": "Zero",
+            "D": "Chicago"
+        },
+        "answer": "Hell" 
+    },
+    {
+        "id": 5,
+        "question": "3 * 3 + 4/1 ",
+        "choices": {
+            "A": "33",
+            "B": "37",
+            "C": "66",
+            "D": "13"
+        },
+        "answer": "13" 
+    },
+    {
+        "id": 6,
+        "question": "1 + 1 ",
+        "choices": {
+            "A": "Dangote",
+            "B": "2",
+            "C": "11",
+            "D": "A and B"
+        },
+        "answer": "2" 
+    },
+    {
+        "id": 7,
+        "question": "Who is the President of Nigeria ",
+        "choices": {
+            "A": "Dangote",
+            "B": "Elon Musk",
+            "C": "Mohammadu Buhari",
+            "D": "Joseph Tsegen"
+        },
+        "answer": "Mohammadu Buhari" 
+    },
+    {
+        "id": 8,
+        "question": "What is the best used word for the shape of the Earth ",
+        "choices": {
+            "A": "Circle",
+            "B": "Cuboid",
+            "C": "Sphere",
+            "D": "GEOID"
+        },
+        "answer": "GEOID" 
+    },
+    {
+        "id": 9,
+        "question": "How old are you?",
+        "choices": {
+            "A": "1yrs",
+            "B": "200yrs",
+            "C": "198yrs",
+            "D": "Duh, None of the Above"
+        },
+        "answer": "Duh, None of the Above" 
+    },
+    {
+        "id": 10,
+        "question": "How do you write 'Hello World' in an alert box? ",
+        "choices": {
+            "A": "msgBox('Hello World');",
+            "B": "alertBox('Hello World');",
+            "C": "msg('Hello World');",
+            "D": "alert('Hello World');"
+        },
+        "answer": "alert('Hello World');" 
+    }
+]
+}
